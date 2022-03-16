@@ -1,0 +1,5 @@
+<stringtable>
+  <ID name="Self_ToolTip">Allows you to crop and/or filter a source</ID>
+  <ID name="Title_ToolTip">Allows you to crop and/or filter a source</ID>
+  <ID name="Default_ToolTip">Allows you to crop and/or filter a source</ID>
+</stringtable>
