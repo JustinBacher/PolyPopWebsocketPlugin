@@ -1,0 +1,5 @@
+<stringtable>
+  <ID name="Self_ToolTip">A custom variable name and it's default value. This is only needed if you want to provide default values to the variable.</ID>
+  <ID name="VariableName_ToolTip">The name to match the variable to. (case sensitive)</ID>
+  <ID name="Default_ToolTip">The default value to provide if the variable is not provided or provided blank.</ID>
+</stringtable>

@@ -1,0 +1,6 @@
+<stringtable>
+  <ID name="Self_ToolTip">A custom made response to a WebSocket message.</ID>
+  <ID name="AlertName_ToolTip">The name of the incoming alert. This must match the name of the incoming alert. (case sensitive)</ID>
+  <ID name="onAction_ToolTip">This will trigger when a Websocket message is received that matches the Alert Name above. Variables that are in the message will not show when wiring but can accessed using their name surrounded in <> angle brackets.</ID>
+  <ID name="Variables_ToolTip">These are not necessary but allow you to provide default values to variables sent if they do not exist or are blank upon receipt.</ID>
+</stringtable>

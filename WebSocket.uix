@@ -1,0 +1,5 @@
+<uix type="Source">
+  <category>Alert Objects</category>
+  <source_type>Web Alerts</source_type>
+  <name>WebSocket</name>
+</uix>

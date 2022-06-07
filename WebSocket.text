@@ -1,0 +1,10 @@
+<stringtable>
+  <ID name="Self_ToolTip">Used to make a WebSocket connection and send/receive custom messages.</ID>
+  <ID name="Port_ToolTip">The Websocket Port to connect to.</ID>
+  <ID name="Status_ToolTip">The status of the WebSocket connection.</ID>
+  <ID name="TriggerAlert_ToolTip">Used to send messages out of PolyPop across the WebSocket connection.</ID>
+  <ID name="TriggerAlert_AlertTitle_ToolTip">The title or name of the message to send.</ID>
+  <ID name="TriggerAlert_AlertValue_ToolTip">The value or payload data to send in the message. Consider this like a variable.</ID>
+  <ID name="TriggerAlert_Trigger_ToolTip">Send a message over the WebSocket connection.</ID>
+  <ID name="Alerts_ToolTip">Holds all of the custom made responses to incoming messages from the WebSocket Connection.</ID>
+</stringtable>
