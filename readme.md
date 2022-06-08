@@ -17,7 +17,7 @@ This plugin is unlike OBS's Websocket plugin, in that, it doesn't have a rigid s
 <b>
   There are no rules! 😎
 </b>
-and I personally think that this allows for the most freedom and ease of use, as well as a less bloated plugin!
+and I personally think that this allows for the most freedom and ease of use, as well as a (marginally) less bloated plugin!
 
 # How do I use it?
 

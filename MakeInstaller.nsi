@@ -13,7 +13,7 @@ OutFile "PolyPop WebSocket Installer.exe"
 InstallDir $Profile\PolyPop\UIX\WebSocket\
 
 ; Set the icon of the installer
-Icon "icon.ico"
+!define MUI_ICON icon.ico
 
 ; Request application privileges for Windows
 RequestExecutionLevel user
@@ -31,7 +31,7 @@ RequestExecutionLevel user
 Section "" ;No components page, name is not important
 
   ; Set output path to the installation directory.
-  SetOutPath $Profile\PolyPop\UIX\WebSocket-dev\
+  SetOutPath $Profile\PolyPop\UIX\WebSocket\
   
   File /r *.lua
   File /r *.text
