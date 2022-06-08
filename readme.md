@@ -8,15 +8,12 @@
 
 <i>
   I created this for people to be able to use external bot's and apps with PolyPop.
-</i>
-
-This plugin is unlike OBS's Websocket plugin, in that, it doesn't have a rigid set of rules to follow.
-
+</i><br>
+This plugin is unlike OBS's Websocket plugin, in that, it doesn't have a rigid set of rules to follow.<br>
 <u>
   You as the broadcaster set up exactly what you want PolyPop to respond to
 </u>
-, and exactly what you want it to send out.
-
+, and exactly what you want it to send out.<br>
 <b>
   There are no rules! 😎
 </b>
