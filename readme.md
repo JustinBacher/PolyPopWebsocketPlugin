@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://ibb.co/5KN18H0">
+</p>
+
 # Hi and thanks for using the websocket plugin!
 
 I created this for people to be able to use external bot's and apps with PolyPop.
