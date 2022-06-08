@@ -33,11 +33,11 @@ Section "" ;No components page, name is not important
   ; Set output path to the installation directory.
   SetOutPath $Profile\PolyPop\UIX\WebSocket-dev\
   
-  File /r "$Profile\PolyPop\UIX\WebSocket\*.lua"
-  File /r "$Profile\PolyPop\UIX\WebSocket\*.text"
-  File /r "$Profile\PolyPop\UIX\WebSocket\*.uix"
-  File /r "$Profile\PolyPop\UIX\WebSocket\*.dds"
-  File /r "$Profile\PolyPop\UIX\WebSocket\*.md"
+  File /r *.lua
+  File /r *.text
+  File /r *.uix
+  File /r *.dds
+  File /r *.md
   
   
 SectionEnd
