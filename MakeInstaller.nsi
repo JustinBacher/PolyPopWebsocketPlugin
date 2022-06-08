@@ -37,7 +37,6 @@ Section "" ;No components page, name is not important
   File /r *.text
   File /r *.uix
   File /r *.dds
-  File /r *.md
   
   
 SectionEnd

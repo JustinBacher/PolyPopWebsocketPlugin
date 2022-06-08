@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Hi and thanks for using the websocket plugin!
+# Hi and thanks for using the PolyPop websocket plugin!
 
 <i>
   I created this for people to be able to use external bot's and apps with PolyPop.
