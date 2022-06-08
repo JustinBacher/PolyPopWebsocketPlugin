@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://ibb.co/5KN18H0">
+    <a href="https://imgbb.com/">
+        <img src="https://i.ibb.co/LNL0t7F/output-onlinepngtools.png" alt="output-onlinepngtools" border="0">
+    </a>
 </p>
 
 # Hi and thanks for using the websocket plugin!
